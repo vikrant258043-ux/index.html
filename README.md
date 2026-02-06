@@ -1,4 +1,4 @@
-# index.html<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <title>Image Website</title>
